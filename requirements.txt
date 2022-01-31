@@ -1,3 +1,9 @@
-dagit==0.13.16
-dagster==0.13.16
+dagit==0.13.17
+dagster==0.13.17
+dagstermill==0.13.17
 requests==2.27.1
+jupyterlab==3.2.8
+matplotlib==3.5.1
+seaborn==0.11.2
+click==8.0.3
+sklearn==0.0
