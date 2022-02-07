@@ -1,0 +1,14 @@
+resources:
+  es:
+    config:
+      host: "localhost"
+  neo4j:
+    config:
+      endpoint: "bolt://localhost:7687"
+      password: "test"
+      user: "neo4j"
+  postgres:
+    config:
+      db: "pagila"
+      password: "postgres"
+      user: "postgres"
